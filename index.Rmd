@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ___
 ___  
 
-![Smallidge-pic. August 2020, Workshop with Jeff Ward, Rhode Island Forest Conservators Organization](C:\Users\pjs23\Documents\R\images-R\Smallidge-Rhode-Island-2020.jpg)  
+![Pretty picture of sugar maple in fall color](https://i.pinimg.com/236x/fa/1a/8a/fa1a8a296b783d7eccb17e71b9415d89.jpg)  
 
 ___
 
