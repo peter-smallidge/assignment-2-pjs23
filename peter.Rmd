@@ -1,0 +1,21 @@
+---
+title: "Peter"
+author: "Peter Smallidge"
+date: "10/4/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+___
+### Peter Smallidge
+* Started working at Cornell Univesity in 1996
+* Serves as the NYS Extension Forester
+* Assumed Arnot Forest Director in 2000
+* Primary research foci:
+   + Sugarbush silviculture for optimal sustainable production
+   + Forest regeneration
+   + Forest vegetation management

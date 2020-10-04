@@ -1,0 +1,23 @@
+---
+title: "Landing Page"
+author: "Peter Smallidge"
+date: "10/4/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Assignment 2 NTRES 6940 Webpage  
+
+[Peter Smallidge](https://github.com/peter-smallidge)  
+[Chris Sayers](https://github.com/peter-smallidge)  
+
+___
+___  
+
+![Smallidge-pic. August 2020, Workshop with Jeff Ward, Rhode Island Forest Conservators Organization](C:\Users\pjs23\Documents\R\images-R\Smallidge-Rhode-Island-2020.jpg)  
+
+___
+
