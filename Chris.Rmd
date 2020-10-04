@@ -1,0 +1,11 @@
+---
+title: "Chris"
+output: html_document
+---
+
+- Undergraduate researcher in DNR/ Lab of Ornithology
+- Interests:
+    - Ecotoxicology
+    - Bird conservation
+    - Tropical biomes
+    - Data visualization!
