@@ -1,0 +1,25 @@
+---
+title: "Peter Smallidge - NTRES 6940"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Course Web Sites of Interest  
+___
+    
+
+* [Rmarkdown cheat sheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.89761629.754077449.1600633566-1013007909.1600633566)  
+
+* [Rmarkdown instructional website](https://rmarkdown.rstudio.com/lesson-1.html)  
+
+* [Rmarkdown reference](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf?_ga=2.110062019.754077449.1600633566-1013007909.1600633566)  
+
+* [Data Carpentry - Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)  
+
+* [Stat 545](https://stat545.com/index.html)  
+
+
