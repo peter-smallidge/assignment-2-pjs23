@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Assignment 2 NTRES 6940 Webpage  
 
 [Peter Smallidge](https://github.com/peter-smallidge)  
-[Chris Sayers](https://github.com/csayers2)  
+[Chris Sayers](https://github.com/csayers2) 
 
 ___
 ___  
