@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ___
 ___  
 
-![Pretty picture of sugar maple in fall color](https://i.pinimg.com/236x/fa/1a/8a/fa1a8a296b783d7eccb17e71b9415d89.jpg){#id .class width=3in height=5in}  
+![Pretty picture of sugar maple in fall color](https://i.pinimg.com/236x/fa/1a/8a/fa1a8a296b783d7eccb17e71b9415d89.jpg){#id .class width=5in height=7in}  
 
 ___
 
