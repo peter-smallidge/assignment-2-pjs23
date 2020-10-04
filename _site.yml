@@ -1,0 +1,16 @@
+navbar:
+  title: "Our Collaborative Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Chris"
+      href: Chris.html
+    - text: "Peter"
+      href: peter.html  
+output_dir: "."
+output:
+  html_document:
+    theme: darkly
+    highlight: textmate
+    toc: true 
+    toc_float: true 
