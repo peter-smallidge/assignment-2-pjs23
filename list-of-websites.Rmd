@@ -11,6 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 # Course Web Sites of Interest  
 ___
     
+* [Slack for NTRES 6940](ntres6940fa20.slack.com)
+
+* [Github for NTRES 6940](https://github.com/nt246/NTRES6940-data-science)
 
 * [Rmarkdown cheat sheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.89761629.754077449.1600633566-1013007909.1600633566)  
 
@@ -21,5 +24,11 @@ ___
 * [Data Carpentry - Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)  
 
 * [Stat 545](https://stat545.com/index.html)  
+
+* [Peter's website](https://peter-smallidge.github.io/assignment-2-pjs23/)
+
+* [Rmarkdown: the definitive guide](https://bookdown.org/yihui/rmarkdown/)
+
+* [R for Data Science (Wickham and Grolemund)](https://r4ds.had.co.nz/)
 
 
