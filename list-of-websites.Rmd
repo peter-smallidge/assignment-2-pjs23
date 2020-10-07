@@ -31,4 +31,6 @@ ___
 
 * [R for Data Science (Wickham and Grolemund)](https://r4ds.had.co.nz/)
 
+* [dyplr cheatsheet](https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+
 
